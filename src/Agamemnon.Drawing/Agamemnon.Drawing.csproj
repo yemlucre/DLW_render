@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Agamemnon.Drawing</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <Version>1.0.0</Version>
+    <Description>Agamemnon drawing domain package: design document editing, parametric geometry, SVG/XYZ import, plane drag and design-to-stage coordinate mapping (mm).</Description>
+  </PropertyGroup>
+</Project>
